@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there , I am Mudasir Raza👋
+
+![](https://komarev.com/ghpvc/?username=mudasir1144&color=Red)
 
 <!--
 **mudasir1144/Mudasir1144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
