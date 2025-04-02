@@ -22,7 +22,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mudasir1144)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mudasir1144&theme=dark" alt="GitHub Streak" /></a>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasir1144&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
